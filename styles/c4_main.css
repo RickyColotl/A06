@@ -34,3 +34,13 @@ main h3 {
 }
 
 /* the styles for the footer */
+footer p {
+	text-align: center;
+}
+
+a:focus, a:hover {
+	font-style: italic;
+}
+.shadow{
+	text-shadow: #800000;
+}
